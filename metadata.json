@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Cordis",
+  "description": "A procedurally generated, rhythmic 3D heart visualization featuring particle physics, volumetric rendering, and granular synthesis audio.",
+  "requestFramePermissions": []
+}
